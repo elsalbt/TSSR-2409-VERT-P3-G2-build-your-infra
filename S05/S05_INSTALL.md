@@ -1,4 +1,4 @@
-## Documentation Générale
+## Documentation Administrateur
 
 ### Sommaire
 - [Prérequis techniques]()
