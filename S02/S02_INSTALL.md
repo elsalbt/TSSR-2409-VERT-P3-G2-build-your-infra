@@ -2,7 +2,7 @@
 
 ### Sommaire
 - [Prérequis techniques]()
-- [Étapes d'installation et de configuration de Security Onion 2.4]()
+- [Étapes d'installation et de configuration]()
 - [FAQ]()
 
 ### Prérequis techniques
