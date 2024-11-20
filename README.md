@@ -13,7 +13,12 @@
 
 
 ### Membres du groupe de projet
-
+    
+|   | Sprint S1 |   
+| :--: | :-------: |
+| SCRUM MASTER | FREDDY|   
+| PRODUCT OWNER | ELSA |   
+| TECHNICIANS | MOHAMMED | 
 
 ### Choix techniques
 
