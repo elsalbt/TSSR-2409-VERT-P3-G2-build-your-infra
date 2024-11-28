@@ -10,6 +10,13 @@
 - [FAQ]()
 
 ### Présentation du projet
+
+### Membres du groupe de projet
+|   | Sprint S1 | Sprint S2 |  Sprint S3 | Sprint S4 |  
+| :--: | :-------: | :-------: | :-------: | :-------: |  
+| SCRUM MASTER | Martin | Martin | Igor  | Nicolas |  
+| PRODUCT OWNER | Igor | Nicolas | Martin | Elsa |  
+| TECHNICIANS | Elsa & Nicolas | Elsa & Igor | Elsa & Nicolas | Igor & Martin |  
 ## Objectif du Projet
 
 Soutenir la croissance d'EcoTech Solutions et améliorer l'efficacité de leurs opérations, tout en renforçant leur engagement envers l'innovation et la transition vers une économie verte.
@@ -35,12 +42,6 @@ Soutenir la croissance d'EcoTech Solutions et améliorer l'efficacité de leurs 
 
 - **Engagement** : Assurer une mise en place efficace et optimale de l'infrastructure réseau.
 
-### Membres du groupe de projet
-|   | Sprint S1 | Sprint S2 |  
-| :--: | :-------: | :-------: | 
-| SCRUM MASTER | Elsa | Mohammed |
-| PRODUCT OWNER | Freddy | Elsa | 
-| TECHNICIANS | Mohammed | Freddy | 
 
 ### Choix techniques
 
