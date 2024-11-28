@@ -10,6 +10,9 @@
 - [FAQ]()
 
 ### Présentation du projet
+
+### Membres du groupe de projet
+
 ## Objectif du Projet
 
 Soutenir la croissance d'EcoTech Solutions et améliorer l'efficacité de leurs opérations, tout en renforçant leur engagement envers l'innovation et la transition vers une économie verte.
@@ -34,9 +37,6 @@ Soutenir la croissance d'EcoTech Solutions et améliorer l'efficacité de leurs 
 ## Conclusion
 
 - **Engagement** : Assurer une mise en place efficace et optimale de l'infrastructure réseau.
-
-### Membres du groupe de projet
-
 
 ### Choix techniques
 
