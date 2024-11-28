@@ -36,7 +36,11 @@ Soutenir la croissance d'EcoTech Solutions et améliorer l'efficacité de leurs 
 - **Engagement** : Assurer une mise en place efficace et optimale de l'infrastructure réseau.
 
 ### Membres du groupe de projet
-
+|   | Sprint S1 | Sprint S2 |  
+| :--: | :-------: | :-------: | 
+| SCRUM MASTER | ELsa | Mohammed | 
+| PRODUCT OWNER | Freddy | Elsa |
+| TECHNICIANS | Mohammed | Freddy | 
 
 ### Choix techniques
 
